@@ -1,5 +1,4 @@
 python-telegram-bot==20.7
-requests>=2.32.3
-flask>=2.3.3
-python-dotenv>=1.0.0
-phonenumbers>=8.13.25
+requests==2.32.3
+flask==3.0.3
+python-dotenv==1.0.1
